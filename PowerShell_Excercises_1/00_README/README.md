@@ -239,7 +239,36 @@ Working with these exercises helped develop a better understanding of how comman
 ## 📂 Project Structure
 
 ```bash
-
+PowerShell_Excercises_1
+│
+├── 00_README
+│   └── README.md
+│
+├── 01_Ans_1
+│   └── Path_to_file.png
+│
+├── 02_Ans_2
+│   └── Get-Content.png
+│
+├── 03_Ans_3
+│   └── Get-Command_cmdlets.png
+│
+├── 04_Ans_4
+│   ├── MD5_Hash.png
+│   └── SHA256_Hash.png
+│
+├── 05_Ans_5
+│   └── Get-location.png
+│
+├── 06_Ans_6
+│   └── Test-Path.png
+│
+├── 07_Ans_7
+│   └── Invoke-WebRequest.png
+│
+└── 08_Ans_8
+    ├── Decoded_file.png
+    └── Path to 64.txt.png
 
 ```
 
