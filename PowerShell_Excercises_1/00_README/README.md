@@ -170,16 +170,16 @@ This command stops the Notepad application if it is currently running.
 
 </p>
 <p align="center">
-  <img src="../04_Ans_4/SHA256- Hash.png" width="600">
+  <img src="../04_Ans_4/SHA256_Hash.png" width="600">
   <br>
-  <em>Figure 4: Answer 4 - SHA256- Hash</em>
+  <em>Figure 4: Answer 4 - SHA256_Hash</em>
 </p>
 
 </p>
 <p align="center">
-  <img src="../04_Ans_4/MD5- Hash.png" width="600">
+  <img src="../04_Ans_4/MD5_Hash.png" width="600">
   <br>
-  <em>Figure 5: Answer 4 - MD5- Hash</em>
+  <em>Figure 5: Answer 4 - MD5_Hash</em>
 </p>
 
 5. What is the command to get the current working directory?
@@ -197,14 +197,14 @@ This command stops the Notepad application if it is currently running.
 <p align="center">
   <img src="../06_Ans_6/Test-Path.png" width="600">
   <br>
-  <em>Figure 7: Answer 6 - Get-location</em>
+  <em>Figure 7: Answer 6 - Test-Path</em>
 </p>
 
 7. What command would you use to make a request to a web server?
 
 </p>
 <p align="center">
-  <img src="../06_Ans_6/Invoke-WebRequest.png" width="600">
+  <img src="../07_Ans_7/Invoke-WebRequest.png" width="600">
   <br>
   <em>Figure 8: Answer 7 - Invoke-WebRequest</em>
 </p>
@@ -220,7 +220,7 @@ This command stops the Notepad application if it is currently running.
 
 </p>
 <p align="center">
-  <img src="../09_Ans_9/Path to 64.txt.png" width="600">
+  <img src="../08_Ans_8/Path to 64.txt.png" width="600">
   <br>
   <em>Figure 9: Answer 8 - Path to 64</em>
 </p>
