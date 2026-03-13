@@ -1,24 +1,40 @@
 
 
-# 📄 Name of the completed project :
-
-
----
-
-## 📅 Incident Details
-
+# 📄 Hacking with Powershell - Answers to questions and a description of basic commands
 
 ---
 
 ## 📁 SUMMARY
 
+This article describes the basic commands used in the Powershell shell and solves exercises from the TryHackMe - Hacking with Powershell course.
 
----
 
-## 🛠️ Tools
-
-  
 ## 🔐 PowerShell - What is it? - the most important informations
+
+**PowerShell** is a command-line shell and scripting language developed by Microsoft, used for automating tasks, system administration, and environment configuration, primarily on Microsoft Windows.
+
+**Key Information**
+
+PowerShell is used for:
+
+- administering Microsoft Windows systems
+
+- automating tasks (e.g., installations, configurations)
+
+- managing files and folders
+
+- managing servers and networks
+
+- writing administrative scripts
+
+
+**PowerShell** runs in a terminal, similar to:
+
+- Command Prompt (CMD)
+
+- Linux Bash
+
+But it is **more advanced**.
 
 
 ## 📸 Information and photos from the analysis of the Incident:
