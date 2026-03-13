@@ -8,6 +8,7 @@
 
 This article describes the basic commands used in the Powershell shell and solves exercises from the TryHackMe - Hacking with Powershell course.
 
+In conclusion, **PowerShell** is a very important tool in modern IT environments. Its flexibility, scripting capabilities, and integration with system components make it a valuable resource for system administrators, DevOps engineers, and cybersecurity professionals. The completed tasks helped build practical skills and a deeper understanding of how PowerShell can be used in real-world situations.
 
 ## 🔎 PowerShell - What is it? - the most important informations
 
@@ -222,37 +223,18 @@ This command stops the Notepad application if it is currently running.
 <p align="center">
   <img src="../08_Ans_8/Decoded file.png" width="600">
   <br>
-  <em>Figure 9: Answer 7 - Decode_file</em>
-</p>
-
-## 📸 Information and photos from the analysis of the Incident:
-
-
-
-                          | Value                            | Comment                                    | Type           |
-                          | ---------------------------------| ------------------------------------------ | -------------- |
-                          | 33[.]33[.]33[.]33                | Destination IP Address                     | IP Address     |  
-                          | 37[.]19[.]221[.]229              | Malicious IP address                       | IP Address     |
-                          | 172[.]16[.]17[.]210              | Victim's IP address - Mane                 | IP Address     |
-                          | mane@letsdefend[.]io             | Compromised credential - Email Address     | Email Address  | 
-</p>
-
-
-The final results after the case was closed:
-</p>
-<p align="center">
-  <img src="../05_Results_of_Investigation/Results_of_my_research.png" width="600">
-  <br>
-  <em>Figure 9: Results_of_my_research</em>
+  <em>Figure 9: Answer 8 - Decode_file</em>
 </p>
 
 
 **The Summary of the investigation**:
 
+This report presents answers and solutions related to tasks from the Hacking with PowerShell course. The main goal of the work was to understand the basic concepts of using PowerShell and to practice the most important commands used in system administration and cybersecurity.
+
+During the exercises, various PowerShell commands were used to explore system processes, services, files, and directories. The tasks also demonstrated how PowerShell can be applied in practical scenarios related to system management and security analysis.
 
 
-
-
+Working with these exercises helped develop a better understanding of how command-line tools operate and how automation can simplify complex administrative tasks. 
 
 ## 📂 Project Structure
 
