@@ -4,12 +4,12 @@
 
 ---
 
-## 📁 SUMMARY
+## 🧠 SUMMARY
 
 This article describes the basic commands used in the Powershell shell and solves exercises from the TryHackMe - Hacking with Powershell course.
 
 
-## 🔐 PowerShell - What is it? - the most important informations
+## 🔎 PowerShell - What is it? - the most important informations
 
 **PowerShell** is a command-line shell and scripting language developed by Microsoft, used for automating tasks, system administration, and environment configuration, primarily on Microsoft Windows.
 
@@ -137,6 +137,40 @@ Example:
 *Stop-Process -Name notepad*
 
 This command stops the Notepad application if it is currently running.
+
+
+## 🔥 **Answers the guestions**:
+
+1. What is the location of the file "interesting-file.txt"
+
+
+</p>
+<p align="center">
+  <img src="../01_Ans_1/Path_to_file.png" width="600">
+  <br>
+  <em>Figure 1: Answer 1 - Path_to_file</em>
+</p>
+
+2. Specify the contents of this file
+
+
+3. How many cmdlets are installed on the system(only cmdlets, not functions and aliases)?
+
+
+4. Get the MD5 hash of interesting-file.txt
+
+
+5. What is the command to get the current working directory?
+
+
+6. Does the path "C:\Users\Administrator\Documents\Passwords" Exist (Y/N)?
+
+
+7. What command would you use to make a request to a web server?
+
+
+8. Base64 decode the file b64.txt on Windows.
+
 
 ## 📸 Information and photos from the analysis of the Incident:
 
