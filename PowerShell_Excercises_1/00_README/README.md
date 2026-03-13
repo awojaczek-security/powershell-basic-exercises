@@ -213,16 +213,16 @@ This command stops the Notepad application if it is currently running.
    
 </p>
 <p align="center">
-  <img src="../08_Ans_8/Decode file.png" width="600">
+  <img src="../08_Ans_8/Path to 64.txt.png" width="600">
   <br>
-  <em>Figure 8: Answer 7 - Decode_file</em>
+  <em>Figure 8: Answer 8 - Path to 64</em>
 </p>
 
 </p>
 <p align="center">
-  <img src="../08_Ans_8/Path to 64.txt.png" width="600">
+  <img src="../08_Ans_8/Decoded file.png" width="600">
   <br>
-  <em>Figure 9: Answer 8 - Path to 64</em>
+  <em>Figure 9: Answer 7 - Decode_file</em>
 </p>
 
 ## 📸 Information and photos from the analysis of the Incident:
