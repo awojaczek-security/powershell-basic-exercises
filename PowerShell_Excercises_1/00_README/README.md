@@ -143,7 +143,6 @@ This command stops the Notepad application if it is currently running.
 
 1. What is the location of the file "interesting-file.txt"
 
-
 </p>
 <p align="center">
   <img src="../01_Ans_1/Path_to_file.png" width="600">
@@ -153,24 +152,78 @@ This command stops the Notepad application if it is currently running.
 
 2. Specify the contents of this file
 
-
+</p>
+<p align="center">
+  <img src="../02_Ans_2/Get-Content.png" width="600">
+  <br>
+  <em>Figure 2: Answer 2 - Get_Content</em>
+</p>
 3. How many cmdlets are installed on the system(only cmdlets, not functions and aliases)?
-
-
+   
+</p>
+<p align="center">
+  <img src="../03_Ans_3/Get-Command_cmdlets.png" width="600">
+  <br>
+  <em>Figure 3: Answer 3 - Get-Command_cmdlets</em>
+</p>
 4. Get the MD5 hash of interesting-file.txt
 
+</p>
+<p align="center">
+  <img src="../04_Ans_4/SHA256- Hash.png" width="600">
+  <br>
+  <em>Figure 4: Answer 4 - SHA256- Hash</em>
+</p>
+
+</p>
+<p align="center">
+  <img src="../04_Ans_4/MD5- Hash.png" width="600">
+  <br>
+  <em>Figure 5: Answer 4 - MD5- Hash</em>
+</p>
 
 5. What is the command to get the current working directory?
 
+</p>
+<p align="center">
+  <img src="../05_Ans_5/Get-location.png" width="600">
+  <br>
+  <em>Figure 6: Answer 5 - Get-location</em>
+</p>
 
 6. Does the path "C:\Users\Administrator\Documents\Passwords" Exist (Y/N)?
-
+   
+</p>
+<p align="center">
+  <img src="../06_Ans_6/Test-Path.png" width="600">
+  <br>
+  <em>Figure 7: Answer 6 - Get-location</em>
+</p>
 
 7. What command would you use to make a request to a web server?
 
+</p>
+<p align="center">
+  <img src="../06_Ans_6/Invoke-WebRequest.png" width="600">
+  <br>
+  <em>Figure 8: Answer 7 - Invoke-WebRequest</em>
+</p>
 
 8. Base64 decode the file b64.txt on Windows.
+   
+</p>
+<p align="center">
+  <img src="../08_Ans_8/Decode file.png" width="600">
+  <br>
+  <em>Figure 8: Answer 7 - Decode_file</em>
+</p>
 
+</p>
+<p align="center">
+  <img src="../09_Ans_9/Path to 64.txt.png" width="600">
+  <br>
+  <em>Figure 9: Answer 8 - Path to 64</em>
+</p>
 
 ## 📸 Information and photos from the analysis of the Incident:
 
