@@ -151,7 +151,7 @@ The first step when you have gained initial access to any machine would be to en
 - scheduled and running tasks
 - insecure files
 
-1. What is the location of the file "interesting-file.txt"
+1. How many users are there on the machine?
 
 </p>
 <p align="center">
@@ -160,6 +160,19 @@ The first step when you have gained initial access to any machine would be to en
   <em>Figure 1: Answer 1 - Path_to_file</em>
 </p>
 
+2. Which local user does this SID(S-1-5-21-1394777289-3961777894-1791813945-501) belong to?
+3. How many users have their password required values set to False?
+4. How many local groups exist?
+5. What command did you use to get the IP address info?
+6. How many ports are listed as listening?
+7. What is the remote address of the local port listening on port 445?
+8. How many patches have been applied?
+9. When was the patch with ID KB4023834 installed?
+10. Find the contents of a backup file.
+11. Search for all files containing API_KEY
+12. What command do you do to list all the running processes?
+13. What is the path of the scheduled task called new-sched-task?
+14. Who is the owner of the C:\
 
 **The Summary of the investigation**:
 
