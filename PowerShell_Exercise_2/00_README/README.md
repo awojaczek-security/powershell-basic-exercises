@@ -6,7 +6,7 @@
 
 ## 🧠 SUMMARY
 
-This article describes the basic commands used in the Powershell shell and solves exercises from the TryHackMe - Hacking with Powershell course.
+This article describes the commands used in the Powershell shell and solves exercises from the TryHackMe - Hacking with Powershell course.
 
 In conclusion, **PowerShell** is a very important tool in modern IT environments. Its flexibility, scripting capabilities, and integration with system components make it a valuable resource for system administrators, DevOps engineers, and cybersecurity professionals. The completed tasks helped build practical skills and a deeper understanding of how PowerShell can be used in real-world situations.
 
