@@ -186,11 +186,52 @@ Working with these exercises helped develop a better understanding of how comman
 ## 📂 Project Structure
 
 ```bash
-PowerShell_Excercise_1
+PowerShell_Exercise_2
 │
 ├── 00_README
 │   └── README.md
 │
+├── 01_Ans_1
+│   └── Get-LocalUser.png
+│
+├── 02_Ans_2
+│   └── Guest-SID.png
+│
+├── 03_Ans_3
+│   └── Password_required_values.png
+│
+├── 04_Ans_4
+│   └── Local_Groups.png
+│
+├── 05_Ans_5
+│   └── IP_Address_info.png
+│
+├── 06_Ans_6
+│   └── Listening_ports.png
+│
+├── 07_Ans_7
+│   └── Local_port_445.png
+│
+├── 08_Ans_8
+│   └── Get-HotFix.png
+│
+├── 09_Ans_9
+│   └── Patch_ID_KB4023834.png
+│
+├── 10_Ans_10
+│   └── Backup_file.png
+│
+├── 11_Ans_11
+│   └── Files_API_KEY.png
+│
+├── 12_Ans_12
+│   └── Get-Process.png
+│
+├── 13_Ans_13
+│   └── new-sched-task.png
+│
+└── 14_Ans_14
+    └── Get-Acl.png
 
 
 ```
