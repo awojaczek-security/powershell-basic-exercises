@@ -155,24 +155,80 @@ The first step when you have gained initial access to any machine would be to en
 
 </p>
 <p align="center">
-  <img src="../01_Ans_1/Path_to_file.png" width="600">
+  <img src="../01_Ans_1/Get-LocalUser.png" width="600">
   <br>
-  <em>Figure 1: Answer 1 - Path_to_file</em>
+  <em>Figure 1: Answer 1 - Get-LocalUser</em>
 </p>
 
 2. Which local user does this SID(S-1-5-21-1394777289-3961777894-1791813945-501) belong to?
+
+</p>
+<p align="center">
+  <img src="../02_Ans_2/Guest-SID.png" width="600">
+  <br>
+  <em>Figure 2: Answer 2 - Guest-SID</em>
+</p>
+
 3. How many users have their password required values set to False?
+   
+</p>
+<p align="center">
+  <img src="../03_Ans_3/Password_required_values.png" width="600">
+  <br>
+  <em>Figure 3: Answer 3 - Password_required_values</em>
+</p>
+
 4. How many local groups exist?
+
+</p>
+<p align="center">
+  <img src="../04_Ans_4/Local_Groups.png" width="600">
+  <br>
+  <em>Figure 4: Answer 4 - Local_Groups</em>
+</p>
+
 5. What command did you use to get the IP address info?
+
+</p>
+<p align="center">
+  <img src="../05_Ans_5/IP_Address_info.png" width="600">
+  <br>
+  <em>Figure 5: Answer 5 - IP_Address_info</em>
+</p>
+
 6. How many ports are listed as listening?
+
+</p>
+<p align="center">
+  <img src="../06_Ans_6/Listening_ports.png" width="600">
+  <br>
+  <em>Figure 6: Answer 6 - Listening_ports</em>
+</p>
+
 7. What is the remote address of the local port listening on port 445?
+   
+</p>
+<p align="center">
+  <img src="../07_Ans_7/Local_port_445.png" width="600">
+  <br>
+  <em>Figure 7: Answer 7 - Local_port_445</em>
+</p>
+
 8. How many patches have been applied?
-9. When was the patch with ID KB4023834 installed?
-10. Find the contents of a backup file.
-11. Search for all files containing API_KEY
-12. What command do you do to list all the running processes?
-13. What is the path of the scheduled task called new-sched-task?
-14. Who is the owner of the C:\
+
+</p>
+<p align="center">
+  <img src="../08_Ans_8/Patch_ID_KB4023834.png" width="600">
+  <br>
+  <em>Figure 8: Answer 8 - Patch_ID_KB4023834</em>
+</p>
+
+13. When was the patch with ID KB4023834 installed?
+14. Find the contents of a backup file.
+15. Search for all files containing API_KEY
+16. What command do you do to list all the running processes?
+17. What is the path of the scheduled task called new-sched-task?
+18. Who is the owner of the C:\
 
 **The Summary of the investigation**:
 
