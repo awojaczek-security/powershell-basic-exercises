@@ -245,7 +245,7 @@ The first step when you have gained initial access to any machine would be to en
 
 </p>
 <p align="center">
-  <img src="../11_Ans_11/Files_API_KEY.png" width="600">
+  <img src="../11_Ans_11/Flles_API_KEY.png" width="600">
   <br>
   <em>Figure 11: Answer 11 - FIles_API_KEY</em>
 </p>
