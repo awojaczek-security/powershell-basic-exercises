@@ -218,17 +218,65 @@ The first step when you have gained initial access to any machine would be to en
 
 </p>
 <p align="center">
-  <img src="../08_Ans_8/Patch_ID_KB4023834.png" width="600">
+  <img src="../08_Ans_8/Get-HotFix.png" width="600">
   <br>
-  <em>Figure 8: Answer 8 - Patch_ID_KB4023834</em>
+  <em>Figure 8: Answer 8 - Get-HotFix</em>
 </p>
 
-13. When was the patch with ID KB4023834 installed?
-14. Find the contents of a backup file.
-15. Search for all files containing API_KEY
-16. What command do you do to list all the running processes?
-17. What is the path of the scheduled task called new-sched-task?
-18. Who is the owner of the C:\
+9. When was the patch with ID KB4023834 installed?
+
+</p>
+<p align="center">
+  <img src="../09_Ans_9/Patch_ID_KB4023834.png" width="600">
+  <br>
+  <em>Figure 9: Answer 9 - Patch_ID_KB4023834</em>
+</p>
+
+10. Find the contents of a backup file.
+
+</p>
+<p align="center">
+  <img src="../10_Ans_10/Backup_file.png" width="600">
+  <br>
+  <em>Figure 10: Answer 10 - Backup_file</em>
+</p>
+
+11. Search for all files containing API_KEY
+
+</p>
+<p align="center">
+  <img src="../11_Ans_11/Files_API_KEY.png" width="600">
+  <br>
+  <em>Figure 11: Answer 11 - FIles_API_KEY</em>
+</p>
+
+
+12. What command do you do to list all the running processes?
+
+</p>
+<p align="center">
+  <img src="../12_Ans_12/Get-Process.png" width="600">
+  <br>
+  <em>Figure 12: Answer 12 - Get-Proces</em>
+</p>
+
+13. What is the path of the scheduled task called new-sched-task?
+
+</p>
+<p align="center">
+  <img src="../13_Ans_13/new-sched-task.png" width="600">
+  <br>
+  <em>Figure 13: Answer 13 - new-sched-task</em>
+</p>
+
+14. Who is the owner of the C:\
+
+</p>
+<p align="center">
+  <img src="../14_Ans_14/Get-Acl.png" width="600">
+  <br>
+  <em>Figure 14: Answer 14 - Get-Acl</em>
+</p>
 
 **The Summary of the investigation**:
 
