@@ -239,7 +239,7 @@ Working with these exercises helped develop a better understanding of how comman
 ## 📂 Project Structure
 
 ```bash
-PowerShell_Excercises_1
+PowerShell_Excercise_1
 │
 ├── 00_README
 │   └── README.md
